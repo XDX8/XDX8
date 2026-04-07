@@ -2,8 +2,7 @@
 
 💻 **Desarrollador Web**  
 📍 Santander, Cantabria  
-📧 dsanchezd02@hotmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz-a4716a341)  
+🔗 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)  
 🌐 [Web](https://www.tarineventos.com/)  
 
 ---
@@ -19,8 +18,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - 🎨 CSS  
 - 🌐 HTML  
 - 🗂️ XML  
-- ☕ Java  
-- 🐍 Python  
+- ☕ Java   
 
 ---
 
@@ -48,7 +46,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 **Prácticas en reparación de equipos informáticos**  
 📍 El Corte Inglés – Bahía de Santander  
-📅 Marzo 2025 – Junio 2025  
+📅 Abril 2025 – Junio 2025  
 
 ---
 
@@ -77,14 +75,3 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XDX8&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=radical)
-
----
-
-## 📫 Contacto
-
-Si quieres colaborar o tienes alguna oportunidad, ¡no dudes en contactarme!
