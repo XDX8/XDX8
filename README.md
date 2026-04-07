@@ -2,7 +2,7 @@
 
 💻 **Desarrollador Web**  
 📍 Santander, Cantabria  
-🔗 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)  
+🔗 [Linkedin](https://linkedin.com/in/darío-sánchez-díaz)  
 🌐 [Web](https://www.tarineventos.com/)  
 
 ---
