@@ -23,6 +23,14 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ## 📂 Proyectos Destacados
 
+### 🌐 Tarín Eventos
+- Diseño, desarrollo y mantenimiento del sitio web
+- Administración completa del proyecto
+
+🔗 https://www.tarineventos.com/  
+
+---
+
 ### 🎯 Torneo Solidario FP Cantabria
 - Organización de eventos
 - Gestión de redes sociales
@@ -30,14 +38,6 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - Diseño web
 
 🔗 https://ligasolidariafpcantabria.es  
-
----
-
-### 🌐 Tarín Eventos
-- Diseño, desarrollo y mantenimiento del sitio web
-- Administración completa del proyecto
-
-🔗 https://www.tarineventos.com/  
 
 ---
 
