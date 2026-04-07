@@ -33,7 +33,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ---
 
-### 🌐 TarinEventos
+### 🌐 Tarín Eventos
 - Diseño, desarrollo y mantenimiento del sitio web
 - Administración completa del proyecto
 
