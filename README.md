@@ -70,8 +70,8 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ## 🏆 Certificaciones
 
+- Cantabria Skills 2025 – Gobierno de Cantabria 
 - Hack2Progress VII – CIC Consulting Informático  
-- Cantabria Skills 2025 – Gobierno de Cantabria  
 
 ---
 
