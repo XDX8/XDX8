@@ -27,7 +27,8 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - Diseño, desarrollo y mantenimiento del sitio web
 - Administración completa del proyecto
 
-🔗 https://www.tarineventos.com/  
+🔗 [WEB](https://www.tarineventos.com/)
+🔗 [Instagram](https://www.instagram.com/tarin_eventos/)
 
 ---
 
@@ -37,7 +38,8 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - Retransmisiones en directo
 - Diseño web
 
-🔗 https://ligasolidariafpcantabria.es  
+🔗 [WEB](https://ligasolidariafpcantabria.es)
+🔗 [Instagram](https://www.instagram.com/ies_augusto_cup/)
 
 ---
 
