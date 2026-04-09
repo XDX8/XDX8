@@ -32,7 +32,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ---
 
-### 🎯 Torneo Solidario FP Cantabria
+### ⚽ Torneo Solidario FP Cantabria
 - Organización de eventos
 - Gestión de redes sociales
 - Retransmisiones en directo
