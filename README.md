@@ -17,7 +17,8 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - 🎨 CSS  
 - 🌐 HTML  
 - 🗂️ XML  
-- ☕ Java   
+- ☕ Java
+-🗄️ SQL
 
 ---
 
