@@ -17,12 +17,13 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ![Streak](https://streak-stats.demolab.com?user=XDX8&theme=tokyonight)
 -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-purple)
+![SQL](https://img.shields.io/badge/-SQL-blue)
 ![XML](https://img.shields.io/badge/-XML-green)
 ![Java](https://img.shields.io/badge/-Java-red)
-![SQL](https://img.shields.io/badge/-SQL-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
