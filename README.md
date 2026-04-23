@@ -20,9 +20,9 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ## 🛠️ Tecnologías y Lenguajes
 
 
-<table>
-<tr>
-<td valign="top">
+<div style="display: flex; align-items: flex-start;">
+
+<div style="width: 50%;">
 
 - 💻 JavaScript  
 - 🎨 CSS  
@@ -31,14 +31,13 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - ☕ Java  
 - 🗄️ SQL  
 
-</td>
-<td valign="top">
+</div>
 
+<div style="width: 50%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight" width="100%" />
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
