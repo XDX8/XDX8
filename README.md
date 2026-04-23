@@ -13,12 +13,10 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ## 🛠️ Tecnologías y Lenguajes
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=20&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&langs_count=20&theme=tokyonight) 
 ![Streak](https://streak-stats.demolab.com?user=XDX8&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
 -->
-<table>
-<tr>
-<td valign="top" width="50%">
 
 - 💻 JavaScript  
 - 🎨 CSS  
@@ -27,14 +25,13 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - ☕ Java  
 - 🗄️ SQL  
 
-</td>
-<td valign="top" width="50%">
+## 🛠️ Tecnologías
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![Java](https://img.shields.io/badge/-Java-red)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey)
 
 ---
 
