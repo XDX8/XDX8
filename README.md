@@ -34,7 +34,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 </div>
 
 <div style="width: 50%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
 </div>
 
 </div>
