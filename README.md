@@ -26,7 +26,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenkiieeee&theme=tokyonight"/>
 
 ---
 
