@@ -15,23 +15,15 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&langs_count=20&theme=tokyonight) 
 ![Streak](https://streak-stats.demolab.com?user=XDX8&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
 -->
-
-- 💻 JavaScript  
-- 🎨 CSS  
-- 🌐 HTML  
-- 🗂️ XML  
-- ☕ Java  
-- 🗄️ SQL  
-
-## 🛠️ Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Java](https://img.shields.io/badge/-Java-red)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
 
 ---
 
