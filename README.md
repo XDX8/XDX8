@@ -16,13 +16,9 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=20&theme=tokyonight) 
 ![Streak](https://streak-stats.demolab.com?user=XDX8&theme=tokyonight)
 -->
-
-## 🛠️ Tecnologías y Lenguajes
-
-
-<div style="display: flex; align-items: flex-start;">
-
-<div style="width: 50%;">
+<table>
+<tr>
+<td valign="top" width="50%">
 
 - 💻 JavaScript  
 - 🎨 CSS  
@@ -31,13 +27,14 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - ☕ Java  
 - 🗄️ SQL  
 
-</div>
+</td>
+<td valign="top" width="50%">
 
-<div style="width: 50%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight"/>
-</div>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
