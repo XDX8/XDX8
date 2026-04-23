@@ -16,6 +16,11 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&theme=tokyonight)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=XDX8&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&langs_count=10&theme=tokyonight" />
+![Streak](https://streak-stats.demolab.com?user=XDX8&theme=tokyonight)
+
 - 💻 JavaScript  
 - 🎨 CSS  
 - 🌐 HTML  
