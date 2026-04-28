@@ -12,10 +12,10 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ---
 
 ## 🛠️ Tecnologías y Lenguajes
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&langs_count=20&theme=tokyonight) 
 ![Streak](https://streak-stats.demolab.com?user=XDX8&theme=tokyonight)
--->
+<!---->
 
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
