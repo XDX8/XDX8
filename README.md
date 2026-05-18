@@ -22,7 +22,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ![Java](https://img.shields.io/badge/-Java-red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=tokyonight)
 
 ---
 
