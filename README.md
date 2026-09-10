@@ -16,11 +16,11 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-purple)
-![SQL](https://img.shields.io/badge/-SQL-blue)
-![XML](https://img.shields.io/badge/-XML-green)
-![Java](https://img.shields.io/badge/-Java-red)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![CSS](https://img.shields.io/badge/-CSS-purple)
+- ![SQL](https://img.shields.io/badge/-SQL-blue)
+- ![XML](https://img.shields.io/badge/-XML-green)
+- ![Java](https://img.shields.io/badge/-Java-red)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 <!--![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=tokyonight)-->
 
@@ -32,8 +32,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - Diseño, desarrollo y mantenimiento del sitio web
 - Administración completa del proyecto
 
-[WEB](https://www.tarineventos.com/)
-[Instagram](https://www.instagram.com/tarin_eventos/)
+[WEB](https://www.tarineventos.com/) - [Instagram](https://www.instagram.com/tarin_eventos/)
 
 ---
 
@@ -43,8 +42,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 - Retransmisiones en directo
 - Diseño web
 
-[WEB](https://ligasolidariafpcantabria.es)
-[Instagram](https://www.instagram.com/ies_augusto_cup/)
+[WEB](https://ligasolidariafpcantabria.es) - [Instagram](https://www.instagram.com/ies_augusto_cup/)
 
 ---
 
