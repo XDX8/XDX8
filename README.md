@@ -7,7 +7,7 @@
 ---
 
 ## Sobre mí
-Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de sitios web, desarrollo frontend y backend, y gestión de proyectos digitales. Me gusta aprender nuevas tecnologías y participar en proyectos reales.
+Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de sitios web, desarrollo frontend y backend, y gestión de proyectos digitales. Me gusta aprender nuevas tecnologías.
 
 ---
 
