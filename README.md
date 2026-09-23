@@ -18,8 +18,8 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-purple)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
-![XML](https://img.shields.io/badge/-XML-green)
 ![Java](https://img.shields.io/badge/-Java-red)
+![XML](https://img.shields.io/badge/-XML-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![SQL](https://img.shields.io/badge/-PHP-darkblue)
 
