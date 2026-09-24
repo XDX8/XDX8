@@ -25,10 +25,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=donut&theme=dark)
-
-
-<!--![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=tokyonight)-->
+![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=tokyonight)-->
 
 ---
 
