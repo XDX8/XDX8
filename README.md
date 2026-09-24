@@ -24,6 +24,9 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 ![SQL](https://img.shields.io/badge/-PHP-darkblue)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=dark)
+
 <!--![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=tokyonight)-->
 
 ---
