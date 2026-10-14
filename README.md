@@ -6,7 +6,6 @@
 [Linkedin](https://linkedin.com/in/darío-sánchez-díaz)  
 
 <!--
----
 
 ## Sobre mí
 Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de sitios web, desarrollo frontend y backend, y gestión de proyectos digitales.
