@@ -1,9 +1,9 @@
 # Darío Sánchez Díaz
 
--**Desarrollador web**  
--Santander, Cantabria  
+- **Desarrollador web**  
+- Santander, Cantabria  
 
--💼[LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
+- 💼[LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
 
 <!--
 ## Sobre mí
