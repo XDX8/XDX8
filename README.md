@@ -12,11 +12,7 @@
 
 Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación
 de sitios web, el desarrollo frontend y backend, y la gestión de proyectos digitales.
--->
 
----
-
-<!--
 ## Tecnologías y lenguajes
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
@@ -86,7 +82,8 @@ Abril de 2025 – junio de 2025
 
 - Inglés — nivel avanzado.
 -->
-
+--- 
+⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝ ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝ ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝ ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝ ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝
 ---
 
 ## Certificaciones
