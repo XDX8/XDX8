@@ -1,6 +1,5 @@
-# Darío Sánchez Díaz
-  (Make tech fun again)
-
+# Darío Sánchez Díaz  # (Make tech fun again)
+  
 - **Desarrollador web**  
 - Santander, Cantabria  
 
