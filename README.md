@@ -2,7 +2,7 @@
 
 <p style="margin-left: 40;"><em>(Make tech fun again)</em></p>
 
-- **Desarrollador web**
+- Desarrollador web
 - Santander, Cantabria
 
 - 💼 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
