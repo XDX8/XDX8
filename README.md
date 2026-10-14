@@ -1,5 +1,4 @@
 ---
----
 # Darío Sánchez Díaz
 
  **Desarrollador Web**  
@@ -84,5 +83,4 @@ IES Augusto González de Linares
 - Cantabria Skills 2025 – Gobierno de Cantabria 
 - Hack2Progress VII – CIC Consulting Informático  
 
----
 ---
