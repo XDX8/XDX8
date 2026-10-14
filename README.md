@@ -1,3 +1,5 @@
+---
+---
 # Darío Sánchez Díaz
 
  **Desarrollador Web**  
@@ -27,9 +29,9 @@ Soy estudiante de Desarrollo de Aplicaciones Web con interés en la creación de
 -->
 
 <!--![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=XDX8&layout=compact&theme=tokyonight)-->
-
----
 <!--
+---
+
 ## Proyectos Destacados
 
 ### Tarín Eventos
@@ -75,6 +77,7 @@ IES Augusto González de Linares
 - 🇬🇧 Inglés – Nivel Avanzado  
 -->
 ---
+---
 
 ## Certificaciones
 <!-- - Cantabria Skills 2027 – Gobierno de Cantabria -->
@@ -82,4 +85,4 @@ IES Augusto González de Linares
 - Hack2Progress VII – CIC Consulting Informático  
 
 ---
-
+---
