@@ -1,9 +1,11 @@
-# Darío Sánchez Díaz  # (Make tech fun again)
-  
-- **Desarrollador web**  
-- Santander, Cantabria  
+# Darío Sánchez Díaz
 
-- 💼[LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
+<p style="margin-left: 40px;"><em>(Make tech fun again)</em></p>
+
+- **Desarrollador web**
+- Santander, Cantabria
+
+- 💼 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
 
 <!--
 ## Sobre mí
