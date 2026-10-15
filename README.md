@@ -1,10 +1,10 @@
 # Darío Sánchez Díaz
 
-<p style="margin-left: 40;"><em>(Make tech fun again)</em></p>
+**<p><em>(Make tech fun again)</em></p>**
 
 - Desarrollador web
 
-- 💼 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
+<!-- - 💼 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz) -->
 --- 
 ### ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝
 ---
