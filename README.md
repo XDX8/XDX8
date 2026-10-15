@@ -2,8 +2,9 @@
 
 **<p><em>(Make tech fun again)</em></p>**
 
-- Desarrollador web
-
+- Técnico Superior en Desarrollo de Aplicaciones Web
+- Técnico en Sistemas Microinformáticos y Redes
+  
 <!-- - 💼 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz) -->
 --- 
 ### ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝
