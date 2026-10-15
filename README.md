@@ -5,7 +5,6 @@
 - Desarrollador web
 
 - 💼 [LinkedIn](https://linkedin.com/in/darío-sánchez-díaz)
-- 
 --- 
 ### ⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝⠠⠍⠁⠅⠑ ⠞⠑⠉⠓ ⠋⠥⠝ ⠁⠛⠁⠊⠝
 ---
